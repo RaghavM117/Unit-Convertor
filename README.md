@@ -20,9 +20,8 @@ Welcome to the Unit Converter project! This project aims to provide a flexible a
 git clone https://github.com/RaghavM117/Unit-Convertor.git
 ```
 **2. Open index.html in your browser:**
-```
 Open the index.html file in your preferred web browser to launch the Unit Converter.
-```
+
 <hr>
 
 ## Customization
